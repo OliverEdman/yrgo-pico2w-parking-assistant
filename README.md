@@ -3,7 +3,7 @@
 IoT Parking Assistant - MicroPython Project
 🎯 Project Purpose
 
-This project was developed as a core part of my IoT and Embedded Systems education at YRGO. The primary goal was to implement a full-stack IoT solution, focusing on MQTT connectivity, Wi-Fi stability, and real-time sensor data processing using MicroPython.
+This project was developed as a core part of my Embedded Systems education at YRGO. The primary goal was to implement a full-stack IoT solution, focusing on MQTT connectivity, Wi-Fi stability, and real-time sensor data processing using MicroPython.
 🚀 Overview
 
 * Proximity Task: Real-time distance measurement using an Ultrasonic sensor (HC-SR04).
